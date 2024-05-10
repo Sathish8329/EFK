@@ -1,0 +1,6 @@
+Deploy the yaml files 
+command - kubectl apply -f .
+
+create index using * or logistack-*
+go to discover and click you can view the logs
+filters can utilized for selecting the particular logs for eg using pod id, pod name or image name
